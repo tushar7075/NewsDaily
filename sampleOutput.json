@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Bassam Masoud, Humeyra Pamuk",
+      "title": "US criticises Israel on Gaza civilian toll as UN to hear ceasefire demand - Reuters",
+      "description": "U.S. Secretary of State Antony Blinken, in his strongest public criticism of Israel's conduct of the war on Hamas in south Gaza, said there was a gap between the government's declared intentions to protect civilians and the <a href=\"/world/middle-east/how-man…",
+      "url": "https://www.reuters.com/world/middle-east/us-criticizes-israel-gaza-civilian-toll-un-hear-ceasefire-demand-2023-12-08/",
+      "urlToImage": "https://www.reuters.com/resizer/FeRbawO5k0_E2daj7MJ6rbv3AHE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EDG6KXYIC5JLZBYKIG2E2SLZ6A.jpg",
+      "publishedAt": "2023-12-08T08:04:00Z",
+      "content": "GAZA/WASHINGTON, Dec 8 (Reuters) - U.S. Secretary of State Antony Blinken, in his strongest public criticism of Israel's conduct of the war on Hamas in south Gaza, said there was a gap between the go… [+6387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Spaceflight Now"
+      },
+      "author": null,
+      "title": "SpaceX launches Falcon 9 rocket from California carrying 22 Starlink satellites – Spaceflight Now - Spaceflight Now",
+      "description": "A Falcon 9 rocket lifted off from Vandenberg Space Force Base, California, with another batch of satellites for SpaceX's Starlink network at 12:03 a.m. PST Friday (3:03 a.m. EST / 0803 UTC).",
+      "url": "https://spaceflightnow.com/2023/12/08/live-coverage-spacex-to-launch-falcon-9-rocket-from-california-carrying-22-starlink-satellites/",
+      "urlToImage": "http://spaceflightnow.com/wp-content/uploads/2022/12/20221214f9swot1.jpg",
+      "publishedAt": "2023-12-08T07:30:00Z",
+      "content": "File photo of a SpaceX Falcon 9 rocket on the launch pad at Vandenberg Space Force Base, California. Credit: SpaceX\r\nA Falcon 9 rocket lifted from the West Coast with another batch of satellites for … [+1898 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Rockets reportedly fired towards US embassy in Baghdad - Al Jazeera English",
+      "description": "US troops and installations have come under regular attacks due to Washington’s support of Israel’s bombardment of Gaza.",
+      "url": "https://www.aljazeera.com/news/2023/12/8/alarm-sirens-explosions-heard-near-us-embassy-in-baghdad",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/01/000_9QQ6WK.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-12-08T06:58:27Z",
+      "content": "Rockets have been fired at the US embassy in Baghdad, according to unconfirmed reports.\r\nExplosions were heard early on Friday morning in the vicinity of the Iraqi capitals heavily fortified Green Zo… [+2176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "The Athletic Staff",
+      "title": "Bailey Zappe, Patriots hold on to beat Steelers on ‘Thursday Night Football’ - The Athletic",
+      "description": "The result marks a surprising turnaround for the Patriots, who lost their last five games and sit last in the AFC East.",
+      "url": "https://theathletic.com/5121811/2023/12/07/patriots-steelers-score-zappe-tnf/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/12/07215443/GettyImages-1838919864-scaled.jpg",
+      "publishedAt": "2023-12-08T06:22:54Z",
+      "content": "By Chad Graff, Mark Kaboly and Mike DeFabo\r\nPatriots quarterback Bailey Zappe threw three touchdown passes in the first half of Thursday nights game as New England held on for a 21-18 victory against… [+4428 chars]"
+    }
+  ]
+}
